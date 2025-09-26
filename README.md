@@ -1,6 +1,7 @@
 # HuskyCode Club 🐺💻
 
 Welcome to the official repository of Northeastern University Silicon Valley HuskyCode Club!
+
 Our Club aims to create a collaborative community for students passionate about LeetCode. Through structured practice groups divided by skill level and shared resources, we'll help improve your problem-solving abilities and build confidence.
 
 ## 📊 About Us
