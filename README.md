@@ -5,7 +5,6 @@ Our Club aims to create a collaborative community for students passionate about 
 
 ## 📊 About Us
 - 👥 40+ Active Members
-- 🎓 88% from Khoury College
 - 🚀 Focus: Summer 2026 Internship Preparation
 - 💪 All skill levels welcome (Beginner to 300+ LC solved)
 
