@@ -16,10 +16,22 @@ After registering:
 1. Join our [Teams Group](link here)
 2. Check out our resources below
 
-## 📚 Learning Resources
+## 📚 Resources
+
+### 📖 For Beginners:
+- [NeetCode (Video Solutions & Roadmap)](https://neetcode.io/)
+
+### 💻 LeetCode Lists
+- [Grind 75](https://www.techinterviewhandbook.org/grind75)
+- [NeetCode Blind 75 (With Video Solutions)](https://neetcode.io/practice?tab=blind75)
+- [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
+
+### 👩‍💻 Learning Resources:
+- [System Design Primer (Available in Multiple Languages)](https://github.com/donnemartin/system-design-primer)
 
 
-## 📝 Internship Resources
+## 📝 Job Resources
 - [The Ultimate 2026 U.S. Internships List](https://www.intern-list.com/)
 - [2026 Software Engineering Internship & New Grad Positions](https://github.com/speedyapply/2026-SWE-College-Jobs)
+- [Jobright AI (AI-Powered Job Matching)](https://jobright.ai/jobs/recommend)
 - [Startup Job Platform - Wellfound](https://wellfound.com/jobs)
