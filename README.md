@@ -35,3 +35,6 @@ After registering:
 - [2026 Software Engineering Internship & New Grad Positions](https://github.com/speedyapply/2026-SWE-College-Jobs)
 - [Jobright AI (AI-Powered Job Matching)](https://jobright.ai/jobs/recommend)
 - [Startup Job Platform - Wellfound](https://wellfound.com/jobs)
+
+## 🤵Interview Preparation
+- [Video Recommendation System Interview Prep](https://bytebytego.com/courses/machine-learning-system-design-interview/video-recommendation-system)
