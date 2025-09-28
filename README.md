@@ -10,7 +10,7 @@ Our Club aims to create a collaborative community for students passionate about 
 - 💪 All skill levels welcome (Beginner to 300+ LC solved)
 
 ## 🚀 Join Us!
-👉 **[Click here to register for HuskyCode Club](https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=gcLuqKOqrk2sm5o5i5IV55bA_ASfByFOshMfFxdiK9BUOFNIRUs0UldZMVYwTFFWTTU2Ulg1WjMyQi4u&analysis=true&tab=0)** 👈
+👉 **[Click here to register for HuskyCode Club](https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=gcLuqKOqrk2sm5o5i5IV55bA_ASfByFOshMfFxdiK9BUOFNIRUs0UldZMVYwTFFWTTU2Ulg1WjMyQi4u&analysis=true&tab=0](https://forms.office.com/r/kNFiykMeFM))** 👈
 
 After registering:
 1. Join our ([Teams Group](https://teams.microsoft.com/l/channel/19%3AN_6dYIL9k2-ok2J82L8HBpfBrkgPsbxzeSwkFUEMrZw1%40thread.tacv2/General?groupId=55eda15f-32aa-493d-8805-15630014071e&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7))
