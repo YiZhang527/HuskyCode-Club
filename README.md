@@ -36,5 +36,5 @@ After registering:
 - [Jobright AI (AI-Powered Job Matching)](https://jobright.ai/jobs/recommend)
 - [Startup Job Platform - Wellfound](https://wellfound.com/jobs)
 
-## 🤵Interview Preparation
+## 🤵Technical Interview Preparation
 - [Video Recommendation System Interview Prep](https://bytebytego.com/courses/machine-learning-system-design-interview/video-recommendation-system)
