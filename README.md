@@ -20,11 +20,14 @@ After registering:
 
 ### 📖 For Beginners:
 - [NeetCode (Video Solutions & Roadmap)](https://neetcode.io/)
+- [Algo Monsters](https://algo.monster)
+- [Design Gurus](https://www.designgurus.io)
 
 ### 💻 LeetCode Lists
 - [Grind 75](https://www.techinterviewhandbook.org/grind75)
 - [NeetCode Blind 75 (With Video Solutions)](https://neetcode.io/practice?tab=blind75)
 - [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
+- [Pattern Recognition](https://www.youtube.com/watch?v=xo7XrRVxH8Y/)
 
 ### 👩‍💻 Learning Resources:
 - [System Design Primer (Available in Multiple Languages)](https://github.com/donnemartin/system-design-primer)
@@ -38,3 +41,4 @@ After registering:
 
 ## 🤵Technical Interview Preparation
 - [Video Recommendation System Interview Prep](https://bytebytego.com/courses/machine-learning-system-design-interview/video-recommendation-system)
+- [Hello Interview - Pay a current SWE at Big Tech to interview you and other interview resources](https://www.hellointerview.com)
