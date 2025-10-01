@@ -40,5 +40,6 @@ After registering:
 - [Startup Job Platform - Wellfound](https://wellfound.com/jobs)
 
 ## 🤵Technical Interview Preparation
+- [SWE Mock Interview](https://www.youtube.com/watch?v=V8DGdPkBBxg)
 - [Video Recommendation System Interview Prep](https://bytebytego.com/courses/machine-learning-system-design-interview/video-recommendation-system)
 - [Hello Interview - Pay a current SWE at Big Tech to interview you and other interview resources](https://www.hellointerview.com)
