@@ -32,6 +32,8 @@ After registering:
 ### 👩‍💻 Learning Resources:
 - [System Design Primer (Available in Multiple Languages)](https://github.com/donnemartin/system-design-primer)
 
+### 📊 Code Visualization Tools:
+- [Online python visualization tool](https://cscircles.cemc.uwaterloo.ca/visualize?utm_source=chatgpt.com#mode=display)
 
 ## 📝 Job Resources
 - [The Ultimate 2026 U.S. Internships List](https://www.intern-list.com/)
