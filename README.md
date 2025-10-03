@@ -40,7 +40,6 @@ After registering:
 - [Startup Job Platform - Wellfound](https://wellfound.com/jobs)
 
 ## 🤵Technical Interview Preparation
-- [SWE Mock Interview](https://www.youtube.com/watch?v=V8DGdPkBBxg)
 - [How to solve a Google coding interview question](https://www.youtube.com/watch?v=Ti5vfu9arXQ)
 - [How I Failed the Google Coding Interview (and lessons I learned)](https://www.youtube.com/watch?v=4SUJt3dP2Jc)
 - [Video Recommendation System Interview Prep](https://bytebytego.com/courses/machine-learning-system-design-interview/video-recommendation-system)
