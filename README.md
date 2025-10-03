@@ -41,5 +41,6 @@ After registering:
 
 ## 🤵Technical Interview Preparation
 - [SWE Mock Interview](https://www.youtube.com/watch?v=V8DGdPkBBxg)
+- [How to solve a Google coding interview question](https://www.youtube.com/watch?v=Ti5vfu9arXQ)
 - [Video Recommendation System Interview Prep](https://bytebytego.com/courses/machine-learning-system-design-interview/video-recommendation-system)
 - [Hello Interview - Pay a current SWE at Big Tech to interview you and other interview resources](https://www.hellointerview.com)
