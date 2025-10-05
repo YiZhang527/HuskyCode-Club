@@ -8,7 +8,8 @@ Our Club aims to create a collaborative community for students passionate about 
 - 👥 70+ Active Members
 - 🚀 Focus: Summer 2026 Internship Preparation
 - 💪 All skill levels welcome (Beginner to 300+ LC solved)
-- 📅 **Weekly LeetCode Sessions**:
+- 📅 **Weekly LeetCode Sessions**:![Weekly HuskyCode Club Flyer](./Weekly%20HuskyCode%20Club%20Flyer%20(1080%20x%201080%20px).png)
+
 ### HuskyCode Club October LeetCode Plan
 - Week 1 (9/29-10/5): Arrays
 - Week 2 (10/6-10/12): Strings
