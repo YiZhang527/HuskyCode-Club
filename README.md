@@ -8,6 +8,13 @@ Our Club aims to create a collaborative community for students passionate about 
 - 👥 70+ Active Members
 - 🚀 Focus: Summer 2026 Internship Preparation
 - 💪 All skill levels welcome (Beginner to 300+ LC solved)
+- 📅 **Weekly LeetCode Sessions**:
+### HuskyCode Club October LeetCode Plan
+- Week 1 (9/29-10/5): Arrays
+- Week 2 (10/6-10/12): Strings
+- Week 3 (10/13-10/19): Hash Tables
+- Week 4 (10/20-10/26): Review Week
+- Week 5 (10/27-11/2): Linked Lists
 
 ## 🚀 Join Us!
 👉 **[Click here to register for HuskyCode Club](https://forms.office.com/r/kNFiykMeFM)** 👈
