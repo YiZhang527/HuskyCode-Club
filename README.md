@@ -10,7 +10,7 @@ Our Club aims to create a collaborative community for students passionate about 
 - 💪 All skill levels welcome (Beginner to 300+ LC solved)
 - 📅 **Weekly LeetCode Sessions**:
 <div align="left">
-  <img src="./huskycode_flyer.png" width="400">
+  <img src="./HuskyCode_flyer.png" width="400">
 </div>
 
 ### HuskyCode Club October LeetCode Plan
