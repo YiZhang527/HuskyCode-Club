@@ -5,7 +5,7 @@ Welcome to the official repository of Northeastern University Silicon Valley Hus
 Our Club aims to create a collaborative community for students passionate about LeetCode. Through structured practice groups divided by skill level and shared resources, we'll help improve your problem-solving abilities and build confidence.
 
 ## 📊 About Us
-- 👥 80+ Active Members
+- 👥 90+ Active Members
 - 🚀 Focus: Summer 2026 Internship Preparation
 - 💪 All skill levels welcome (Beginner to 300+ LC solved)
 - 📅 **Weekly LeetCode Sessions**:
