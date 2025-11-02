@@ -19,7 +19,11 @@ Our Club aims to create a collaborative community for students passionate about 
 - Week 3 (10/13-10/19): Hash Tables
 - Week 4 (10/20-10/26): Review Week
 - Week 5 (10/27-11/2): Linked Lists
-
+### HuskyCode Club November LeetCode Plan
+- Week 1 (11/3-11/9): Binary Search + Greedy
+- Week 2 (11/10-11/16): Stacks & Queues
+- Week 3 (11/17-11/23): Trees
+- Week 4 (11/24-11/30): Graphs
 ## 🚀 Join Us!
 👉 **[Click here to register for HuskyCode Club](https://forms.office.com/r/kNFiykMeFM)** 👈
 
